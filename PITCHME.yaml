@@ -10,7 +10,7 @@ layout : center-left
 logo : /assets/img/logo.png
 highlight : monokai
 autoslide : false
-loop : true
+loop : false
 transition : fade
 slide-number: true
 code-line-numbers : true
