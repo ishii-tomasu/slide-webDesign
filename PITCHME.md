@@ -1,6 +1,6 @@
 ---
 
-# デザインの  基本原則
+# デザインの<br>基本原則
 
 ---?image=/assets/img/bg-top.jpg
 
