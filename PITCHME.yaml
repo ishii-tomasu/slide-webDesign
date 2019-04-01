@@ -9,10 +9,13 @@ layout : center-left
 # Look-and-Feel
 logo : logo.png
 highlight : monokai
-autoslide : 5000
+autoslide : false
 loop : true
 transition : fade
 slide-number: true
 code-line-numbers : true
 
+
+title : "GitPitch"
+description : "Design"
 footnote : "Web Design Rule"
