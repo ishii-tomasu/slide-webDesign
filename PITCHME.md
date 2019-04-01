@@ -4,7 +4,7 @@
 
 ---?image=/assets/img/bg-top.jpg
 
-## @fa[atom] 4つの基本原則
+## @fa[center-right] 4つの基本原則
 
 +++
 
