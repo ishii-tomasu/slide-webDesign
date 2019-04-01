@@ -3,7 +3,7 @@ charts : true
 mathjax : TeX-AMS_HTML-full
 
 # Layout
-theme : beige
+theme : moon
 layout : center-left
 
 # Look-and-Feel
