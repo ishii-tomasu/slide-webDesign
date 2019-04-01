@@ -4,7 +4,7 @@
 
 ---?image=/assets/img/bg-top.jpg
 
-## @fa[center-right] 4つの基本原則
+## @fa[caret-right] 4つの基本原則
 
 +++
 
