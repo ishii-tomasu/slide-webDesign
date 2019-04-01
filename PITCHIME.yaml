@@ -1,13 +1,11 @@
-#テーマの設定
-theme : sky
+# Layout
+theme : night
 
+
+# Look-and-Feel
 
 #ロゴアイコンの設定
 logo : logo.png
-
-
-#フットノートの設定
-footnote : "© 2017 sample Inc."
 
 
 #スライドのページ数表示の設定
@@ -16,7 +14,7 @@ slide-number: true
 #
 # Layout Setting
 #
-layout : left
+layout : center-left
 
 #
 # Footnote Setting
@@ -39,6 +37,6 @@ loop : true
 #トランジションの設定
 transition : fade
 
-
-#チャート / グラフ機能の設定
+# Plugins
 charts : true
+mathjax : TeX-AMS_HTML-full
