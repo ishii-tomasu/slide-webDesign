@@ -9,8 +9,6 @@ GitHub と MarkDown 記法を使ったプレゼンテーション公開機能
 
 - GitHub アカウント
 
-    - GitLab や Gitbucket でも可
-
 - Git と MarkDown の基本知識
 
 ## How to Use
