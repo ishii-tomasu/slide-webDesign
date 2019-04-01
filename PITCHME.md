@@ -11,7 +11,7 @@
 - 反復 |
 - コントラスト |
 
----?image=/assets/img/bg.jpg
+---?image=/assets/img/bg-top.jpg
 
 ### 近接
 関連する項目をまとめてグループ化することを言い、情報の組織化を目的としています。
