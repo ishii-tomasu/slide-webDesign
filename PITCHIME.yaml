@@ -1,42 +1,18 @@
-# Layout
-theme : night
-
-
-# Look-and-Feel
-
-#ロゴアイコンの設定
-logo : logo.png
-
-
-#スライドのページ数表示の設定
-slide-number: true
-
-#
-# Layout Setting
-#
-layout : center-left
-
-#
-# Footnote Setting
-#
-footnote : "Web Design Rule"
-
-
-#コードのシンタックスハイライトの設定
-highlight : monokai
-
-
-#スライド自動再生の設定
-autoslide : 5000
-
-
-#スライドのループ設定
-loop : true
-
-
-#トランジションの設定
-transition : fade
-
 # Plugins
 charts : true
 mathjax : TeX-AMS_HTML-full
+
+# Layout
+theme : beige
+layout : center-left
+
+# Look-and-Feel
+logo : logo.png
+highlight : monokai
+autoslide : 5000
+loop : true
+transition : fade
+slide-number: true
+code-line-numbers : true
+
+footnote : "Web Design Rule"
