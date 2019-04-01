@@ -1,12 +1,12 @@
----?image=/assets/img/bg-top.jpg
+---
 
 # デザインの基本原則
 
----
+---?image=/assets/img/bg-top.jpg
 
-## @fa[atom]4つの基本原則
+## @fa[atom] 4つの基本原則
 
----
++++
 
 - 近接
 - 整列 |
